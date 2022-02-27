@@ -1,23 +1,23 @@
 <h1 align="center">
-  <img src="./Assets/header.png" alt="Morpion" />
+  <img src="./Assets/header.jpeg" alt="JeuxDeMot" />
 </h1>
 
 ---
 
-# Morpion
+# JEUX DE MOT
 
 ## Petit résumé
-- Le morpion est un jeu de réflexion se pratiquant à deux joueurs dont le but d'être le premier à créer un alignement de 3 cases sur une grille.
+- Quel meilleur moyen d'apprendre le scrabble que de retrouver des mots qu'avec ses lettres mélangées.
 
 ## Objectifs
-- Créer une application en VB permettant de jouer au morpion.
+- Trouver le mot initial par rapport à ses lettres mélanger avec cinq chances par mot.
 
 ## Techno
 - VB.Net
 - Visual Studio
 
 ## UI
-<img src="./Assets/demo.png" alt="Morpion" />
+<img src="./Assets/demo.png" alt="JeuxDeMot" />
 
 ## Auteur
 - [@Pierre](https://github.com/Pierre-Portfolio)
